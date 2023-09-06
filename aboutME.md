@@ -1,4 +1,4 @@
-![CD 명함사이즈](https://github.com/aikozvezda/aikozvezda/assets/144213771/b08d7a10-f5dc-431c-a9f7-0a3d8f67f6cb)
+![CD 명함사이즈](https://github.com/aikozvezda/aikozvezda/assets/144213771/b08d7a10-f5dc-431c-a9f7-0a3d8f67f6cb){: width="20" height="20"}
 
 - 👋 Hi, I’m @aikozvezda
 - 👀 I’m interested in dancing💃, bakery🍰 and k-drama🎥
