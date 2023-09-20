@@ -50,7 +50,7 @@ if __name__ == '__main__':
             data_columns = {
                 'Midterm': [m_score for m_score, _ in data],
                 'Final'  : [f_score for _, f_score in data],
-                'Average': average }
+                'Average': [f_score for _, f_score in data] }
             for name, column in data_columns.items():
                 mean, var, median, min_, max_ = analyze_data(column)
                 report.write(f'* {name}\n')
