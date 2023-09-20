@@ -59,3 +59,8 @@
   * Variance: 618.545
   * Median: **66.000**
   * Min/Max: (0.000, 94.000)
+* Average
+  * Mean: **58.674**
+  * Variance: 618.545
+  * Median: **66.000**
+  * Min/Max: (0.000, 94.000)
